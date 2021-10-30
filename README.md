@@ -1,3 +1,5 @@
+# Configure Ubuntu terminal
+
 ## Install vs code .deb file:
 ```cmd
 https://code.visualstudio.com/
