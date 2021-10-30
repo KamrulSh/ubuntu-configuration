@@ -2,7 +2,7 @@
 
 ## Install vs code .deb file:
 ```cmd
-https://code.visualstudio.com/
+[Official vs code](https://code.visualstudio.com/)
 ```
 
 ## Install curl:
@@ -27,7 +27,7 @@ and set `ZSH_THEME="powerlevel10k/powerlevel10k"`.
 
 ## Download this font and install:
 ```cmd
-https://github.com/KamrulSh/ubuntu-configuration/tree/main/fonts
+[Fira mono nerd font](https://github.com/KamrulSh/ubuntu-configuration/tree/main/fonts)
 ```
 Set this font in Terminal (Terminal → Preferences → Profiles → Text → Custom Font), in the dropdown select the installed Font.Change to this font and you are good to go.
 
